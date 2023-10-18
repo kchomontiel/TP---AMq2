@@ -2,7 +2,7 @@
 predict.py
 
 DESCRIPCIÓN: Script de prediccion para modelo entrenado en el BigMart dataset
-AUTOR: Carlos Montiel
+AUTOR: Carlos Montiel, Dario Navarro
 FECHA: 17/10/2023
 """
 

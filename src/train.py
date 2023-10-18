@@ -3,7 +3,7 @@ train.py
 
 DESCRIPCIÓN: Script de entrenamiento sobre de datos pre-procesados y 
              guardado del mismo
-AUTOR: Carlos Montiel
+AUTOR: Carlos Montiel, Dario Navarro
 FECHA: 17/10/2023
 """
 

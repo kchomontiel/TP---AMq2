@@ -2,16 +2,16 @@
 feature_engineering.py
 
 DESCRIPCIÓN: Script de transformacion de datos para el entrenamiento
-AUTOR: Carlos Montiel
+AUTOR: Carlos Montiel, Dario Navarro
 FECHA: 17/10/2023
 """
 
 # Imports
 import os
-import pandas as pd
 import json
-import tempfile
 import argparse
+import pandas as pd
+
 
 
 class FeatureEngineeringPipeline(object):
